@@ -16,7 +16,7 @@ The dataset includes 3,279 measurements per variable:
 
 Data were collected using a Raspberry Pi Pico W and low-cost sensors under semi-controlled environmental conditions. Measurements were recorded every 20–30 seconds.
 
-## Mardown
+## Markdown
 Soil moisture values are obtained using a YL-69 sensor, which provides analog readings based on soil electrical conductivity (ADC values). These readings do not represent direct volumetric water content and should be interpreted accordingly.
 
 ## Purpose
